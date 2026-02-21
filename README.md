@@ -13,8 +13,8 @@ Antes de comenzar, asegúrate de tener instalado:
 - Git para clonar el repositorio
 
 ---
-##Notas
+## Notas
 
--El formulario de contacto está conectado a Formspree (https://formspree.io/f/xreaadqb) para envío de correos.
+- El formulario de contacto está conectado a Formspree (https://formspree.io/f/xreaadqb) para envío de correos.
 - No necesitas configurar servidor propio: todo funciona con el endpoint gratuito de Formspree.
 - Los estilos están hechos con Bootstrap y styled-components para modularidad y reutilización.
